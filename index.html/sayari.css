@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(135deg, #0b1440, #1e2f7a);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+}
+
+.shayari-box {
+  background: rgba(0,0,0,0.4);
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  max-width: 420px;
+}
+
+.shayari-box h1 {
+  color: #ff5c5c;
+  margin-bottom: 20px;
+}
